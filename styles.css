@@ -1,5 +1,5 @@
 body {background-color:midnightblue}
-h1 {color:blanchedalmond;font-family: Arial;text-align: center;, font-size:large;}
+h1 {color:blanchedalmond;font-family: 'Roboto Mono', monospace;text-align: center;, font-size:large;}
 img {box-shadow: 0cm;align-self: center;}
 p{font-size: medium; color:blanchedalmond}
 ul {border: midnightblue;}
@@ -7,3 +7,4 @@ li{color: mintcream;}
 tr{color: mintcream;}
 #art-by-me {margin-left: 20%;}
 .yellow {color: yellow}
+.default-font {color: whitesmoke; font-family: 'Roboto Mono', monospace; text-align: center;font-size: x-large;}
